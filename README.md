@@ -3,8 +3,9 @@
 -🌄 Currently leaning: Django & Flask Framewok
 -🤷🏾‍♂️ Languages: Portuguese and English.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=himelsu007&show_icons=true&theme=dark)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Himelsu007&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Himelsu007&layout=compact&thee=tokyonight)](https://github.com/Himelsu007/github-readme-stats)
+
+
 
 
 
