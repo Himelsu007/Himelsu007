@@ -1,4 +1,4 @@
-## :computer: Welcome to my Profile / Seja Bem-Vindo ao meu perfil
+## :computer: Hello World !
 
 - Currently leaning: Javascript
 - Idioms: Portuguese and English.
