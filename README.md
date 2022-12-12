@@ -2,8 +2,9 @@
 
 - Currently learning: JavaScript
 - Idioms: Portuguese and English.
+- Bag: HTML and CSS ( 11 / 12 / 2022 ) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Himelsu007&layout=compact&thee=tokyonight)](https://github.com/Himelsu007/github-readme-stats)
+
 
 
 
