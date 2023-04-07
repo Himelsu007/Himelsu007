@@ -3,8 +3,7 @@
 - Fluent in : Portuguese and English.
 - Book recomendations: "Clean Code - Robert C. Martin".
 - Current Location: Lisbon.
-- Freelancer clients history: 4.
-- Currenctly learning JavaScript.
+- Currenctly learning JavaScript and TypeScript
 
 
 
