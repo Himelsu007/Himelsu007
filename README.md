@@ -12,7 +12,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Himelsu007&icon=5&color=12)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.me/HimelsuEncoge?locale.x=en_PT) 
 
   
